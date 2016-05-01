@@ -6,4 +6,8 @@ title: M0nkey Mind
 	<h1>Hi there, It's M0nkey Mind site.</h1>
 	<p>It is a site about breaking a habbit. 
 	 <a href="/about">Read more about it...</a></p>
+
+	 {% for page in site.pages %}
+	    <li><span>{{ page.title }}</span> » <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+	  {% endfor %}
 </div><!-- /.blurb -->

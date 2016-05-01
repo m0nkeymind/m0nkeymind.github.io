@@ -1,2 +1,3 @@
 name: M0nkey Mind
 markdown: kramdown
+permalink: /:title/
