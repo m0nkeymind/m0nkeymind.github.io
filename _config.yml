@@ -1,3 +1,7 @@
 name: M0nkey Mind
 markdown: kramdown
 permalink: /:title/
+collections:
+  articles:
+    output: true
+    permalink: /:title/
