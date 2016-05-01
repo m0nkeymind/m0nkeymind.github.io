@@ -3,8 +3,6 @@ layout: article
 title: "Why not to stop fapping at all?"
 ---
 
-Why not to stop fapping at all? 
-
 The goal of this guide is to make a healthy attitude towards fapping.
 
 Excessive fapping is unhealthy. I believe that no fapping at all is also unhealthy. If you can't keep

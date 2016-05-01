@@ -2,4 +2,7 @@
 layout: article
 title: "What is it?"
 ---
-what is is all about?
+what is it all about?
+
+![My helpful screenshot]({{ site.url }}/pic.png)
+
