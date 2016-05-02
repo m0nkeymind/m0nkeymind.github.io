@@ -4,5 +4,5 @@ title: "What is it?"
 ---
 what is it all about?
 
-![My helpful screenshot]({{ site.url }}/images/bob2.svg =500px)
+![My helpful screenshot]({{ site.url }}/images/bob2.svg)
 
