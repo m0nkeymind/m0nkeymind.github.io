@@ -6,7 +6,7 @@ title: "UF Scale"
 Let's use a scale of UF from 1 to 5 where 1 is abscense of urge to
 fap and 5 is literally fapping.
 
-|UF|                                                   |
+|UF| Description                                                  |
 |--|---------------------------------------------------|
 |1 | zero dezire to fap                                |
 |--|---------------------------------------------------|

@@ -91,13 +91,11 @@ wrong anchor he is able to switch to any anchor he likes. The next moment he
 will almost inevitiably loose this realization or "awakaned" state and his mind
 will keep and switch anchors again.
 
-+----------------+-----------+------------+
 |                |  Bob      | His monkey |
-+----------------+-----------+------------+
+|----------------|-----------|------------|
 | Keep attention |  Never    | Always     |
-+----------------+-----------+------------+
-| Swithc anchor  | Sometimes | Always     |
-+----------------+-----------+------------+
+|----------------|-----------|------------|
+| Switch anchor  | Sometimes | Always     |
 
 I will say it again: Bob can't intentionaly keep staying on a "work" anchor.
 Bob's monkey will stay on whatever anchor it's like for whatever period of times it
