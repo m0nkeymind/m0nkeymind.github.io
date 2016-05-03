@@ -147,12 +147,13 @@ time and exact UF at any given time is a sum of those two functions.
 * fluctuations of UF over days of a week. The main factor here is how many days is
   Bob staying away from fapping or orgams in general. UF slowly varies in days
   and maybe weeks. And going from 1 to 3 may take Bob a week
-  (see [UF scale](http://m0nkeymind.github.io/UF-scale/) ).
+  (see [UF scale](http://m0nkeymind.github.io/UF-scale/) ). (Long-term UF)
 
 * fluctuations of UF due to current anchor on which his mind stays now. Those
   fluctuations are rapid and going from 2 to 4 may take Bob a few mintues. If
   then his monkey deside to move to an anchor that is not dangerous (in terms of
   fapping, say back to the work) his UF will fall back to 2 or even 1.
+  (Short-term UF).
 
 As we said, with increasing of UF weights of corresponing links are also
 increasing. When Bob's UF is 1 links on chains that leads to fap are relatively low.
@@ -162,7 +163,41 @@ lot of money on the fact that he won't fap today, right? No. When his monkey
 jumps to "girl pic" his UF raises to 3 or even 4 and then monkey jumps to "porn"
 and five minutes later he is fapping.
 
+See what is happening when Bob's Long-term UF is 1:
 
+work -> work -> news -> work -> mem -> fb -> work -> news -> ad -> gril pic -> news -> work ...
+1        1       2       1       1      2     1       1       2     2.5           2      1
 
+And what is happening when Bob's Long-term UF is 3:
 
+work -> work -> news -> work -> mem -> fb -> work -> news -> ad -> gril pic -> porn -> fap ...
+3        3.5     3.5      3      3     3.5    3       3.5    4      4.5          5      6
 
+In the latter case Bob's monkey leaps on a chain leading to fap because his UF
+level at that period was 4.5 while his long-term UF was 3.
+
+In both cases danger anchor is "girl pic". While we should keep in mind that
+there is non-ziro probability that Bob's monkey leaps on "fap" from any anchor,
+the most dangerous ones are "girl pic", "porn" and "ad". To succesfuly stop
+fapping (at least this day) Bob have simply to constantly "awake" when his mind
+stays on those three anchors to intentionaly leap on "work" and then let his
+monkey do his job again. As soon as he realize that he is on "ad", "girl pic" or
+"porn" he must "awake" and leap back. That's all.
+
+The problem is, in reality, the are countless anchors around you, and number of
+dangerous one is also huge. Even if you sit down and try to write down all
+dangerous anchors that you are aware of and you end up with a list of 200
+anchors then you miss 2000 more dangerous anchors that you even don't realise.
+But let's back to Bob.
+
+What If we don't have magical ability to view what anchor Bob's mind curently stays on
+but have a way to see his current UF.
+
+1 -> 1 -> 2 -> 1 -> 1 -> 2 -> 1 -> 1 -> 2 -> 2.5 -> 2 -> 1
+
+3 -> 3.5 -> 3.5 -> 3 -> 3 -> 3.5 -> 3 -> 3.5 -> 4 -> 4.5 -> 5 -> 6
+
+See what we have now. Two trackedd UF level over a few minutes of Bob's life.
+
+If Bob only knew that he is in danger when his UF was on 4.5! He would awake and
+leap back on "work".
