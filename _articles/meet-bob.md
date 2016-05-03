@@ -135,10 +135,34 @@ What I found works for me, and what will work for Bob and what will probably
 work for you is combination of 2nd and 3rd options. But if you can use 1st
 option somehow, feel free to use it too in combination with 2nd and 3rd.
 
-##### The Role of UF
+##### Behavior of UF on a network of anchors.
+
+When UF is changing, correspoding weights are also changing.
+The important point is that changing of an anchor on wich his mind curently
+stays also changes UF.
+
+We can say that there are two functions of fluctuations of Bob's UF level over
+time and exact UF at any given time is a sum of those two functions.
+
+* fluctuations of UF over days of a week. The main factor here is how many days is
+  Bob staying away from fapping or orgams in general. UF slowly varies in days
+  and maybe weeks. And going from 1 to 3 may take Bob a week
+  (see [UF scale](http://m0nkeymind.github.io/UF-scale/) ).
+
+* fluctuations of UF due to current anchor on which his mind stays now. Those
+  fluctuations are rapid and going from 2 to 4 may take Bob a few mintues. If
+  then his monkey deside to move to an anchor that is not dangerous (in terms of
+  fapping, say back to the work) his UF will fall back to 2 or even 1.
 
 As we said, with increasing of UF weights of corresponing links are also
-increasing. When Bob's UF is 1 (see [UF scale](http://m0nkeymind.github.io/UF-scale/) )
+increasing. When Bob's UF is 1 links on chains that leads to fap are relatively low.
+But now Bob is abstent from fapping for 5 days. Let's say his UF now is somewhere between 2
+and 3. It is still lower than dangerous 5 level. Bob is save, and we can bet a
+lot of money on the fact that he won't fap today, right? No. When his monkey
+jumps to "girl pic" his UF raises to 3 or even 4 and then monkey jumps to "porn"
+and five minutes later he is fapping.
+
+
 
 
 
