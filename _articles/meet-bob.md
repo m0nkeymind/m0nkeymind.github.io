@@ -201,3 +201,7 @@ See what we have now. Two trackedd UF level over a few minutes of Bob's life.
 
 If Bob only knew that he is in danger when his UF was on 4.5! He would awake and
 leap back on "work" then.
+
+Is there any way to do that for Bob, for me or for you? Heck yes!
+
+
