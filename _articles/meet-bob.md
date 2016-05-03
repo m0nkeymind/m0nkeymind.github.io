@@ -138,6 +138,6 @@ option somehow, feel free to use it too in combination with 2nd and 3rd.
 ##### The Role of UF
 
 As we said, with increasing of UF weights of corresponing links are also
-increasing. 
+increasing. When Bob's UF is 1 (see [UF scale] ( {{site.url}}/UF-scale/ )
 
 
