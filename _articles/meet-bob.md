@@ -200,4 +200,4 @@ but have a way to see his current UF.
 See what we have now. Two trackedd UF level over a few minutes of Bob's life.
 
 If Bob only knew that he is in danger when his UF was on 4.5! He would awake and
-leap back on "work".
+leap back on "work" then.

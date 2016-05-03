@@ -34,8 +34,7 @@ Now, I believe that you almost have no control over your UF. It is not your
 intentional choice to have high or low UF. In default mode It is closely related
 to your SD and contol of that is beyound your abbilities.
 
-Monkey mind model
-=================
+##### Monkey mind model
 
 Before we move next it is useful to introduce model of monkey mind.
 It is used by buddhists when they talk about ones innabilietes to control their
@@ -69,8 +68,7 @@ god will not pee on your floor anymore. Will it work? Of course not!
 
 Don't deside to stop fapping. Traing your monkey mind to stop touching that leverage.
 
-Role of anchors in default mode
-================================
+##### Role of anchors in default mode
 
 Imagine yourself sitting in the morning at your notebook checking news. You want
 to keep yourself from fapping this day. You feel like your finaly can do it. You
